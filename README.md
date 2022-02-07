@@ -1,2 +1,2 @@
 # JavaScript-Alura
-  Repositorio  dedicado ao conteudo das formaçoes  Javascript chez Alura
+  Repositorio  dedicado ao conteúdo ensinado nos treinamentos de JavaScript da Alura
